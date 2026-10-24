@@ -1,0 +1,13 @@
+{
+  "name": "coffee-api",
+  "version": "1.0.0",
+  "description": "Coffee shop ordering API backed by PostgreSQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  }
+}
